@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hanzala Sohrab</h1>
-<h3 align="center">Junior Undergrad at B.I.T. Sindri pursuing B.Tech in Information Technology</h3>
+<h3 align="center">Junior undergrad student at B.I.T. Sindri pursuing B.Tech in Information Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzala-sohrab&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala-sohrab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanzala-sohrab" alt="hanzala-sohrab" /></a> </p>
 
+
 - 📫 How to reach me **sorb.hanzala@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/hanzala-resume](https://bit.ly/hanzala-resume)
+- 📄 Know about my experiences [Resume](https://bit.ly/hanzala-resume)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
