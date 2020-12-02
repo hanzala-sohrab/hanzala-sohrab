@@ -33,7 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzala-sohrab&count_private=true" alt="hanzala-sohrab" /></p>
 
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
