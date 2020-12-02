@@ -47,6 +47,9 @@
 <a href="https://www.hackerearth.com/@sorb.hanzala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sorb.hanzala" height="30" width="40" /></a>
 </p>
 
+<br><br>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hanzala-sohrab&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala-sohrab" /> </p>
+<p align="center">At last, here's a joke for you <br><br><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hanzala-sohrab&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala-sohrab" /> </p>
 
