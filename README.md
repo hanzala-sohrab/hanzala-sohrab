@@ -49,7 +49,7 @@
 
 <br><br>
 
-<p align="center">At last, here's a joke for you <br><br><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
+<p align="left">At last, here's a joke for you <br><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hanzala-sohrab&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala-sohrab" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hanzala-sohrab&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala-sohrab" /> </p>
 
