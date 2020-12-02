@@ -4,11 +4,11 @@
 
 <h3 align="left">About me:</h3>
 
-- Junior undergrad student at [B.I.T. Sindri](https://bitsindri.ac.in/) pursuing B.Tech in Information Technology (2k18 - 22).
+- Junior undergrad student at [B.I.T. Sindri](https://bitsindri.ac.in/) pursuing B.Tech in Information Technology (2k18 - 22)
 
-- Treasurer at [Hackathon & Coding Club (HnCC), B.I.T. Sindri](https://hnccbits.com/).
+- Treasurer at [Hackathon & Coding Club (HnCC), B.I.T. Sindri](https://hnccbits.com/)
 
-- Alumni incharge at [Gandhi Rachnatmak Samiti (G.R.S.), B.I.T. Sindri](https://www.facebook.com/grsclubsindri/).
+- Alumni incharge at [Gandhi Rachnatmak Samiti (G.R.S.), B.I.T. Sindri](https://www.facebook.com/grsclubsindri/)
 
 - Volunteer at [Prayaas India](https://prayaasindia.org/)
 
