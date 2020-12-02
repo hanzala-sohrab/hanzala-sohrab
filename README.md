@@ -2,9 +2,6 @@
 <h3 align="center">Junior undergrad student at B.I.T. Sindri pursuing B.Tech in Information Technology</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzala-sohrab&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala-sohrab" /> </p>
-
-
 <h2 align="left">About me:</h2>
 
 - Treasurer at [Hackathon & Coding Club (HnCC), B.I.T. Sindri](https://hnccbits.com/).
@@ -12,6 +9,8 @@
 - Alumni incharge at [Gandhi Rachnatmak Samiti (G.R.S.), B.I.T. Sindri](https://www.facebook.com/grsclubsindri/).
 
 - Volunteer at [Prayaas India](https://prayaasindia.org/)
+
+- President at [CodeChef BIT Sindri Chapter](https://www.facebook.com/codechef.hnccbits).
 
 - 📫 How to reach me **sorb.hanzala@gmail.com**
 
@@ -38,4 +37,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzala-sohrab&show_icons=true&locale=en&layout=compact" alt="hanzala-sohrab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzala-sohrab&show_icons=true&locale=en" alt="hanzala-sohrab" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzala-sohrab&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala-sohrab" /> </p>
 
