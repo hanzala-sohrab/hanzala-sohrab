@@ -18,6 +18,8 @@
 
 - My [Resume](https://bit.ly/hanzala-resume)
 
+- Currently learning React
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
