@@ -17,7 +17,7 @@
 
 - Email address : sorb.hanzala@gmail.com
 
-- My [Resume](https://bit.ly/hanzala-resume)
+- My [Resume](https://drive.google.com/file/d/1qD-EXMKFVlT8_RYGk3H8N5BZdhAz6mR4/view)
 
 - I’m currently learning **React**
 
