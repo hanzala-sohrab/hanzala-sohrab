@@ -13,7 +13,7 @@
 
 - Volunteer at [Prayaas India](https://prayaasindia.org/)
 
-- President at [CodeChef BIT Sindri Chapter](https://www.facebook.com/codechef.hnccbits).
+- President at [CodeChef BIT Sindri Chapter](https://www.codechef.com/campus_chapter/BIT%20Sindri).
 
 - Email address : sorb.hanzala@gmail.com
 
