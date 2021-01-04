@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> 
+	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fhtml5_1216733&psig=AOvVaw1XU3uHq_hW9OdyAWIBwd6w&ust=1609867339057000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiJmKzlgu4CFQAAAAAdAAAAABAD" alt="html5" width="40" height="40"/> </a> 
 	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="javascript" width="40" height="40"/> </a>
 	<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
