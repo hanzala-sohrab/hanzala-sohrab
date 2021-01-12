@@ -71,5 +71,5 @@
 <h4 align="left">At last, here's a joke for you</h4>
 <p align="left"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hanzala-sohrab&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala-sohrab" /> </p>
+
 
