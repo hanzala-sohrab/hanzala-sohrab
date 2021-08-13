@@ -17,7 +17,7 @@
 
 - Email address : sorb.hanzala@gmail.com
 
-- My [Resume](https://drive.google.com/file/d/1qD-EXMKFVlT8_RYGk3H8N5BZdhAz6mR4/view)
+- My [Resume](https://drive.google.com/file/d/1aosqNc_C7js0eJZGrLCvFDb3p4UTttJV/view?usp=sharing)
 
 <br>
 
