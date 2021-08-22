@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Hanzala Sohrab</h1>
 <h3 align="center">Student | Competitive programmer | Developer</h3>
 
-
-<h3 align="left">About me:</h3>
+<br>
+<h3 align="center">About me:</h3>
 
 - Junior undergrad student at [B.I.T. Sindri](https://bitsindri.ac.in/) pursuing B.Tech in Information Technology (2k18 - 22)
 
@@ -21,12 +21,12 @@
 
 <br>
 
-<h3 align="left">Stats:</h3>
+<h3 align="center">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzala-sohrab&show_icons=true&locale=en&layout=compact" alt="hanzala-sohrab" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzala-sohrab&show_icons=true&locale=en&layout=compact" alt="hanzala-sohrab" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzala-sohrab&count_private=true" alt="hanzala-sohrab" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hanzala-sohrab&count_private=true" alt="hanzala-sohrab" /></p>
 
 
 
