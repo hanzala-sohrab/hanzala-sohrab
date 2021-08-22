@@ -28,22 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzala-sohrab&count_private=true" alt="hanzala-sohrab" /></p>
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-	<a href="https://linkedin.com/in/han-so" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="han-so" height="30" width="40" /></a>
-	<a href="https://www.codechef.com/users/han_so" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="han_so" height="30" width="40" /></a>
-	<a href="https://www.hackerrank.com/sorb_hanzala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sorb_hanzala" height="30" width="40" /></a>
-	<a href="https://codeforces.com/profile/hanzala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="hanzala" height="30" width="40" /></a>
-	<a href="https://www.hackerearth.com/@sorb.hanzala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sorb.hanzala" height="30" width="40" /></a>
-</p>
-
-<br><br>
-
-<h4 align="left">At last, here's a joke for you</h4>
-<p align="left"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
-
 
 
