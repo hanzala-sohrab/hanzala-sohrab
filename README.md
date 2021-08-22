@@ -7,13 +7,15 @@
 
 - Junior undergrad student at [B.I.T. Sindri](https://bitsindri.ac.in/) pursuing B.Tech in Information Technology (2k18 - 22)
 
-- Currently working at [Surepass Technologies Private Limited](https://surepass.io/) as a Python Developer Intern (March 21 - Present)
+- Currently working at [Surepass Technologies Private Limited](https://surepass.io/) as a Python Developer Intern (April 2021 - Present)
 
-- Treasurer at [Hackathon & Coding Club (HnCC), B.I.T. Sindri](https://hnccbits.com/)
+- Treasurer at [Hackathon & Coding Club (HnCC), B.I.T. Sindri](https://hnccbits.com/) (November 2020 - Present)
 
-- Alumni incharge at [Gandhi Rachnatmak Samiti (G.R.S.), B.I.T. Sindri](https://www.facebook.com/grsclubsindri/)
+- Alumni incharge at [Gandhi Rachnatmak Samiti (G.R.S.), B.I.T. Sindri](https://www.facebook.com/grsclubsindri/) (2020 - Present)
 
-- Volunteer and lead website maintainer at [Prayaas India](https://prayaasindia.org/)
+- President at CodeChef BIT Sindri Chapter (May 2020 - June 2021)
+
+- Volunteer and lead website maintainer at [Prayaas India](https://prayaasindia.org/) (2019 - Present)
 
 - My [Resume](https://drive.google.com/file/d/1aosqNc_C7js0eJZGrLCvFDb3p4UTttJV/view?usp=sharing)
 
