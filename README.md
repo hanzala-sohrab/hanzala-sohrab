@@ -7,15 +7,13 @@
 
 - Junior undergrad student at [B.I.T. Sindri](https://bitsindri.ac.in/) pursuing B.Tech in Information Technology (2k18 - 22)
 
-- Currently interning at [Surepass Technologies Private Limited](https://surepass.io/) as a Python Developer
+- Currently working at [Surepass Technologies Private Limited](https://surepass.io/) as a Python Developer Intern (March 21 - Present)
 
 - Treasurer at [Hackathon & Coding Club (HnCC), B.I.T. Sindri](https://hnccbits.com/)
 
 - Alumni incharge at [Gandhi Rachnatmak Samiti (G.R.S.), B.I.T. Sindri](https://www.facebook.com/grsclubsindri/)
 
 - Volunteer and lead website maintainer at [Prayaas India](https://prayaasindia.org/)
-
-- Email address : sorb.hanzala@gmail.com
 
 - My [Resume](https://drive.google.com/file/d/1aosqNc_C7js0eJZGrLCvFDb3p4UTttJV/view?usp=sharing)
 
