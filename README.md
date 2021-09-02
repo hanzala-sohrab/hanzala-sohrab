@@ -32,6 +32,17 @@
   <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></span>
 </div>
 
+<br>
+
+<h3 align="center">Database</h3>
+<div align="center">
+  <span><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></span>
+  <span><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></span>
+</div>
+
 <h3 align="center">Stats:</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzala-sohrab&show_icons=true&locale=en&layout=compact" alt="hanzala-sohrab" /></p>
