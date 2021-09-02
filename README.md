@@ -51,7 +51,6 @@
   <span><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></span>
   <span><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"></span>
   <span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></span>
-  <span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></span>
 </div>
 
 <br>
