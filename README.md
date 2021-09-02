@@ -17,7 +17,7 @@
 
 - Volunteer and lead website maintainer at [Prayaas India](https://prayaasindia.org/) (2019 - Present)
 
-- My [Resume](https://drive.google.com/file/d/1aosqNc_C7js0eJZGrLCvFDb3p4UTttJV/view?usp=sharing)
+- My [Resume](https://drive.google.com/file/d/1iecRXanRLC0uyIk2fgO6Jl422WRHANfJ/view?usp=sharing)
 
 <br>
 
