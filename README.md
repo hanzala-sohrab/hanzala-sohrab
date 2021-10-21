@@ -9,12 +9,6 @@
 
 - Currently working at [Surepass Technologies Private Limited](https://surepass.io/) as a Python Developer Intern (April 2021 - Present)
 
-- Treasurer at [Hackathon & Coding Club (HnCC), B.I.T. Sindri](https://hnccbits.com/) (November 2020 - Present)
-
-- Alumni incharge at [Gandhi Rachnatmak Samiti (G.R.S.), B.I.T. Sindri](https://www.facebook.com/grsclubsindri/) (2020 - Present)
-
-- President at CodeChef BIT Sindri Chapter (May 2020 - June 2021)
-
 - Volunteer and lead website maintainer at [Prayaas India](https://prayaasindia.org/) (2019 - Present)
 
 - My [Resume](https://drive.google.com/file/d/1iecRXanRLC0uyIk2fgO6Jl422WRHANfJ/view?usp=sharing)
