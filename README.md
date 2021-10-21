@@ -5,7 +5,7 @@
 <br>
 <h3 align="center">About me:</h3>
 
-- Junior undergrad student at [B.I.T. Sindri](https://bitsindri.ac.in/) pursuing B.Tech in Information Technology (2k18 - 22)
+- Student at [B.I.T. Sindri](https://bitsindri.ac.in/) pursuing B.Tech in Information Technology (2018 - 22)
 
 - Currently working at [Surepass Technologies Private Limited](https://surepass.io/) as a Python Developer Intern (April 2021 - Present)
 
