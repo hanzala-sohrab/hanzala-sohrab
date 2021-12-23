@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Hanzala Sohrab</h1>
-<h3 align="center">Student | Competitive programmer | Developer</h3>
 
 <br>
 <h3 align="center">About me:</h3>
