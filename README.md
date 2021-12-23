@@ -61,7 +61,7 @@
   <span><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"></span>
 </div>
-
+<br>
 <h3 align="left">Stats:</h3>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzala-sohrab&show_icons=true&locale=en&layout=compact" alt="hanzala-sohrab" /></p>
