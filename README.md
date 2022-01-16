@@ -6,7 +6,7 @@
 
 - Student at [B.I.T. Sindri](https://bitsindri.ac.in/) pursuing B.Tech in Information Technology (2018 - 22)
 
-- Currently working at [Surepass Technologies Private Limited](https://surepass.io/) as a Python Developer Intern (April 2021 - Present)
+- Software Engineer Intern at Info Edge (January 2022 - Present)
 
 - Volunteer and lead website maintainer at [Prayaas India](https://prayaasindia.org/) (2019 - Present)
 
