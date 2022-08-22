@@ -4,8 +4,6 @@
 <br>
 <h3 align=>About me:</h3>
 
-- Student at [B.I.T. Sindri](https://bitsindri.ac.in/) pursuing B.Tech in Information Technology (2018 - 22)
-
 - Software Engineer at InfoEdge (May 2022 - Present)
 
 - Volunteer and lead website maintainer at [Prayaas India](https://prayaasindia.org/) (2019 - Present)
