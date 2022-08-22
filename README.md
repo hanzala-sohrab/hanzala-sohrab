@@ -6,8 +6,6 @@
 
 - Software Engineer at InfoEdge (May 2022 - Present)
 
-- Volunteer and lead website maintainer at [Prayaas India](https://prayaasindia.org/) (2019 - Present)
-
 - My [Resume](https://drive.google.com/file/d/1iecRXanRLC0uyIk2fgO6Jl422WRHANfJ/view?usp=sharing)
 
 <br>
