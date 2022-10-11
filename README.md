@@ -63,7 +63,7 @@
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzala-sohrab&show_icons=true&locale=en&layout=compact" alt="hanzala-sohrab" /></p> -->
 
 
-<!-- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hanzala-sohrab&count_private=true" alt="hanzala-sohrab" /></p> -->
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzala-sohrab"></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hanzala-sohrab&count_private=true" alt="hanzala-sohrab" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzala-sohrab">
 
 
