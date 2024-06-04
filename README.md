@@ -4,7 +4,7 @@
 <br>
 <h3 align=>About me:</h3>
 
-- Software Engineer at InfoEdge (May 2022 - Present)
+- Senior Software Engineer at InfoEdge (May 2022 - Present)
 
 - My [Resume](https://drive.google.com/file/d/1iecRXanRLC0uyIk2fgO6Jl422WRHANfJ/view?usp=sharing)
 
