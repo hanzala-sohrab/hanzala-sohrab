@@ -6,7 +6,7 @@
 
 - Senior Software Engineer at InfoEdge (May 2022 - Present)
 
-- My [Resume](https://drive.google.com/file/d/1iecRXanRLC0uyIk2fgO6Jl422WRHANfJ/view?usp=sharing)
+- My [Resume](https://drive.google.com/file/d/1vSmB4n0rFHmwh8mwfXsWnsjhazdlWN9D/view?usp=sharing)
 
 <br>
 
