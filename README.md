@@ -81,6 +81,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hanzala-sohrab&theme=radical&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzala-sohrab&layout=compact&langs_count=7&theme=radical&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
 
 
