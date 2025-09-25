@@ -44,6 +44,7 @@
   <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></span>
   <span><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></span>
   <span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></span>
   <span><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"></span>
