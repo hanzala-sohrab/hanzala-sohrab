@@ -78,7 +78,8 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=hanzala-sohrab&hide_border=true&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzala-sohrab&theme=dark&hide_border=true"/>|
 |---|---|
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hanzala-sohrab&theme=radical&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzala-sohrab&layout=compact&langs_count=7&theme=radical&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzala-sohrab&layout=compact&langs_count=7&theme=radical&hide=glsl)](https://github.com/anuraghazra/github-readme-stats) -->
