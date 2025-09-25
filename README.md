@@ -42,6 +42,7 @@
 <h3 align="left">Frameworks/Libraries</h3>
 <div align="left">
   <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></span>
   <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></span>
   <span><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></span>
