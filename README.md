@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Hanzala Sohrab</h1>
-
 ![](https://komarev.com/ghpvc/?username=hanzala-sohrab)
-
 <h3 align=>About me:</h3>
 
 - Senior Software Engineer at InfoEdge (May 2022 - Present)
