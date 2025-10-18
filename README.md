@@ -36,7 +36,6 @@
 <!--   <span><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></span> -->
 </div>
 
-
 <br>
 
 <h3 align="left">Frameworks/Libraries</h3>
